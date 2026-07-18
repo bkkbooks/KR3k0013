@@ -78,6 +78,7 @@ markers:
       ', id: KR3k0013_krp_399-bkkkrnewl16}
   - {type: line-break, offset: 237, content: '', id: KR3k0013_WYG_399-1b08}
   - {type: punctuation, offset: 246, content: (, id: KR3k0013_krp_399-bkkpn1}
+  - {type: voice, offset: 246, length: 11, name: note, id: n1}
   - {type: punctuation, offset: 252, content: /, id: KR3k0013_krp_399-bkkpn2}
   - {type: punctuation, offset: 257, content: ), id: KR3k0013_krp_399-bkkpn3}
   - {type: 'kr:newline', offset: 257, content: '
@@ -153,6 +154,7 @@ markers:
       ', id: KR3k0013_krp_399-bkkkrnewl33}
   - {type: line-break, offset: 542, content: '', id: KR3k0013_WYG_399-2b07}
   - {type: punctuation, offset: 546, content: (, id: KR3k0013_krp_399-bkkpn4}
+  - {type: voice, offset: 546, length: 17, name: note, id: n2}
   - {type: punctuation, offset: 555, content: /, id: KR3k0013_krp_399-bkkpn5}
   - {type: punctuation, offset: 563, content: ), id: KR3k0013_krp_399-bkkpn6}
   - {type: 'kr:newline', offset: 571, content: '
@@ -499,6 +501,7 @@ markers:
       ', id: KR3k0013_krp_399-bkkkrnewl118}
   - {type: line-break, offset: 2034, content: '', id: KR3k0013_WYG_399-7b02}
   - {type: punctuation, offset: 2055, content: (, id: KR3k0013_krp_399-bkkpn7}
+  - {type: voice, offset: 2055, length: 173, name: note, id: n3}
   - {type: punctuation, offset: 2056, content: /, id: KR3k0013_krp_399-bkkpn8}
   - {type: punctuation, offset: 2057, content: ), id: KR3k0013_krp_399-bkkpn9}
   - {type: 'kr:newline', offset: 2057, content: '
@@ -721,6 +724,7 @@ markers:
       ', id: KR3k0013_krp_399-bkkkrnewl169}
   - {type: line-break, offset: 3031, content: '', id: KR3k0013_WYG_399-10a08}
   - {type: punctuation, offset: 3039, content: (, id: KR3k0013_krp_399-bkkpn25}
+  - {type: voice, offset: 3039, length: 174, name: note, id: n4}
   - {type: punctuation, offset: 3052, content: /, id: KR3k0013_krp_399-bkkpn26}
   - {type: punctuation, offset: 3065, content: ), id: KR3k0013_krp_399-bkkpn27}
   - {type: 'kr:newline', offset: 3065, content: '
@@ -2300,4 +2304,4 @@ markers:
 
       ', id: KR3k0013_krp_399-bkkkrnewl557}
   back: []
-hash: sha256:91afc18f6684a906361d712cd919f5e179b114afe0b4a012a31b739cac672b00
+hash: sha256:ec1b05c8b8064b1090174b24182c8fda4acf36cabc70593ebe5a5e7a27b1ca44

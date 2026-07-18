@@ -96,6 +96,7 @@ markers:
       ', id: KR3k0013_krp_719-bkkkrnewl20}
   - {type: line-break, offset: 273, content: '', id: KR3k0013_WYG_719-2a03}
   - {type: punctuation, offset: 287, content: (, id: KR3k0013_krp_719-bkkpn1}
+  - {type: voice, offset: 287, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 290, content: /, id: KR3k0013_krp_719-bkkpn2}
   - {type: punctuation, offset: 293, content: ), id: KR3k0013_krp_719-bkkpn3}
   - {type: 'kr:newline', offset: 297, content: '
@@ -251,9 +252,11 @@ markers:
       ', id: KR3k0013_krp_719-bkkkrnewl58}
   - {type: line-break, offset: 934, content: '', id: KR3k0013_WYG_719-4a05}
   - {type: punctuation, offset: 935, content: (, id: KR3k0013_krp_719-bkkpn4}
+  - {type: voice, offset: 935, length: 13, name: note, id: n2}
   - {type: punctuation, offset: 942, content: /, id: KR3k0013_krp_719-bkkpn5}
   - {type: punctuation, offset: 948, content: ), id: KR3k0013_krp_719-bkkpn6}
   - {type: punctuation, offset: 958, content: (, id: KR3k0013_krp_719-bkkpn7}
+  - {type: voice, offset: 958, length: 17, name: note, id: n3}
   - {type: punctuation, offset: 961, content: /, id: KR3k0013_krp_719-bkkpn8}
   - {type: punctuation, offset: 964, content: ), id: KR3k0013_krp_719-bkkpn9}
   - {type: 'kr:newline', offset: 964, content: '
@@ -364,6 +367,7 @@ markers:
       ', id: KR3k0013_krp_719-bkkkrnewl84}
   - {type: line-break, offset: 1381, content: '', id: KR3k0013_WYG_719-5b04}
   - {type: punctuation, offset: 1384, content: (, id: KR3k0013_krp_719-bkkpn13}
+  - {type: voice, offset: 1384, length: 59, name: note, id: n4}
   - {type: punctuation, offset: 1402, content: /, id: KR3k0013_krp_719-bkkpn14}
   - {type: punctuation, offset: 1420, content: ), id: KR3k0013_krp_719-bkkpn15}
   - {type: 'kr:newline', offset: 1420, content: '
@@ -1985,4 +1989,4 @@ markers:
 
       ', id: KR3k0013_krp_719-bkkkrnewl485}
   back: []
-hash: sha256:9d24015d4da70cae759c3a37a811362ca56fe62976cc3dd126da19e4659bb50c
+hash: sha256:91562e4f1b9da5de860b345823655cb5e1f2b3f95e180879993d7ab52f761214

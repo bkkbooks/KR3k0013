@@ -94,9 +94,11 @@ markers:
       ', id: KR3k0013_krp_672-bkkkrnewl20}
   - {type: line-break, offset: 300, content: '', id: KR3k0013_WYG_672-2a03}
   - {type: punctuation, offset: 309, content: (, id: KR3k0013_krp_672-bkkpn1}
+  - {type: voice, offset: 309, length: 8, name: note, id: n1}
   - {type: punctuation, offset: 313, content: /, id: KR3k0013_krp_672-bkkpn2}
   - {type: punctuation, offset: 317, content: ), id: KR3k0013_krp_672-bkkpn3}
   - {type: punctuation, offset: 323, content: (, id: KR3k0013_krp_672-bkkpn4}
+  - {type: voice, offset: 323, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 325, content: /, id: KR3k0013_krp_672-bkkpn5}
   - {type: punctuation, offset: 327, content: ), id: KR3k0013_krp_672-bkkpn6}
   - {type: 'kr:newline', offset: 327, content: '
@@ -200,6 +202,7 @@ markers:
       ', id: KR3k0013_krp_672-bkkkrnewl45}
   - {type: line-break, offset: 731, content: '', id: KR3k0013_WYG_672-3b01}
   - {type: punctuation, offset: 733, content: (, id: KR3k0013_krp_672-bkkpn7}
+  - {type: voice, offset: 733, length: 12, name: note, id: n3}
   - {type: punctuation, offset: 739, content: /, id: KR3k0013_krp_672-bkkpn8}
   - {type: punctuation, offset: 745, content: ), id: KR3k0013_krp_672-bkkpn9}
   - {type: 'kr:newline', offset: 758, content: '
@@ -231,6 +234,7 @@ markers:
       ', id: KR3k0013_krp_672-bkkkrnewl52}
   - {type: line-break, offset: 865, content: '', id: KR3k0013_WYG_672-3b08}
   - {type: punctuation, offset: 884, content: (, id: KR3k0013_krp_672-bkkpn10}
+  - {type: voice, offset: 884, length: 4, name: note, id: n4}
   - {type: punctuation, offset: 886, content: /, id: KR3k0013_krp_672-bkkpn11}
   - {type: punctuation, offset: 888, content: ), id: KR3k0013_krp_672-bkkpn12}
   - {type: 'kr:newline', offset: 888, content: '
@@ -1615,4 +1619,4 @@ markers:
 
       ', id: KR3k0013_krp_672-bkkkrnewl395}
   back: []
-hash: sha256:c0d2d5d0f471bfe5cbf230b5af0d6aa593b5d34b00458a67a91dbe0ace382d95
+hash: sha256:3b43e46515472006f8da171c7d1a908f6dbe96364b160e01f62495b6d5a849b2

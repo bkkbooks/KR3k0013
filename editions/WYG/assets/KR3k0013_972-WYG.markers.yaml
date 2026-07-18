@@ -410,6 +410,7 @@ markers:
       ', id: KR3k0013_WYG_972-bkkkrnewl99}
   - {type: line-break, offset: 1307, content: '', id: KR3k0013_WYG_972-6b01}
   - {type: punctuation, offset: 1326, content: (, id: KR3k0013_WYG_972-bkkpn1}
+  - {type: voice, offset: 1326, length: 28, name: note, id: n1}
   - {type: punctuation, offset: 1328, content: /, id: KR3k0013_WYG_972-bkkpn2}
   - {type: punctuation, offset: 1330, content: ), id: KR3k0013_WYG_972-bkkpn3}
   - {type: 'kr:newline', offset: 1330, content: '
@@ -568,6 +569,7 @@ markers:
       ', id: KR3k0013_WYG_972-bkkkrnewl137}
   - {type: line-break, offset: 1819, content: '', id: KR3k0013_WYG_972-8b03}
   - {type: punctuation, offset: 1832, content: (, id: KR3k0013_WYG_972-bkkpn7}
+  - {type: voice, offset: 1832, length: 56, name: note, id: n2}
   - {type: punctuation, offset: 1840, content: /, id: KR3k0013_WYG_972-bkkpn8}
   - {type: punctuation, offset: 1848, content: ), id: KR3k0013_WYG_972-bkkpn9}
   - {type: 'kr:newline', offset: 1848, content: '
@@ -1598,9 +1600,11 @@ markers:
       ', id: KR3k0013_WYG_972-bkkkrnewl393}
   - {type: line-break, offset: 5561, content: '', id: KR3k0013_WYG_972-22b07}
   - {type: punctuation, offset: 5561, content: (, id: KR3k0013_WYG_972-bkkpn13}
+  - {type: voice, offset: 5561, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 5562, content: /, id: KR3k0013_WYG_972-bkkpn14}
   - {type: punctuation, offset: 5563, content: ), id: KR3k0013_WYG_972-bkkpn15}
   - {type: punctuation, offset: 5570, content: (, id: KR3k0013_WYG_972-bkkpn16}
+  - {type: voice, offset: 5570, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 5571, content: /, id: KR3k0013_WYG_972-bkkpn17}
   - {type: punctuation, offset: 5572, content: ), id: KR3k0013_WYG_972-bkkpn18}
   - {type: 'kr:newline', offset: 5584, content: '
@@ -1983,4 +1987,4 @@ markers:
 
       ', id: KR3k0013_WYG_972-bkkkrnewl485}
   back: []
-hash: sha256:ab30b0104f13ada3ce044d507d38375c68227e326d966714977c40be2cb0d24a
+hash: sha256:2a1def86ccd829dc1a5153152c630accef5920faf4d7de84e9e0ddec44dc5811

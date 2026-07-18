@@ -92,6 +92,7 @@ markers:
       ', id: KR3k0013_WYG_214-bkkkrnewl19}
   - {type: line-break, offset: 265, content: '', id: KR3k0013_WYG_214-2a02}
   - {type: punctuation, offset: 285, content: (, id: KR3k0013_WYG_214-bkkpn1}
+  - {type: voice, offset: 285, length: 73, name: note, id: n1}
   - {type: punctuation, offset: 286, content: /, id: KR3k0013_WYG_214-bkkpn2}
   - {type: punctuation, offset: 287, content: ), id: KR3k0013_WYG_214-bkkpn3}
   - {type: 'kr:newline', offset: 287, content: '
@@ -245,6 +246,7 @@ markers:
       ', id: KR3k0013_WYG_214-bkkkrnewl55}
   - {type: line-break, offset: 973, content: '', id: KR3k0013_WYG_214-4a02}
   - {type: punctuation, offset: 991, content: (, id: KR3k0013_WYG_214-bkkpn10}
+  - {type: voice, offset: 991, length: 14, name: note, id: n2}
   - {type: punctuation, offset: 994, content: /, id: KR3k0013_WYG_214-bkkpn11}
   - {type: punctuation, offset: 997, content: ), id: KR3k0013_WYG_214-bkkpn12}
   - {type: 'kr:newline', offset: 997, content: '
@@ -303,6 +305,7 @@ markers:
       ', id: KR3k0013_WYG_214-bkkkrnewl68}
   - {type: line-break, offset: 1232, content: '', id: KR3k0013_WYG_214-4b06}
   - {type: punctuation, offset: 1234, content: (, id: KR3k0013_WYG_214-bkkpn16}
+  - {type: voice, offset: 1234, length: 1211, name: note, id: n3}
   - {type: punctuation, offset: 1253, content: /, id: KR3k0013_WYG_214-bkkpn17}
   - {type: punctuation, offset: 1272, content: ), id: KR3k0013_WYG_214-bkkpn18}
   - {type: 'kr:newline', offset: 1272, content: '
@@ -570,6 +573,7 @@ markers:
       ', id: KR3k0013_WYG_214-bkkkrnewl113}
   - {type: line-break, offset: 2658, content: '', id: KR3k0013_WYG_214-7a06}
   - {type: punctuation, offset: 2665, content: (, id: KR3k0013_WYG_214-bkkpn103}
+  - {type: voice, offset: 2665, length: 5, name: note, id: n4}
   - {type: punctuation, offset: 2668, content: /, id: KR3k0013_WYG_214-bkkpn104}
   - {type: punctuation, offset: 2670, content: ), id: KR3k0013_WYG_214-bkkpn105}
   - {type: 'kr:newline', offset: 2681, content: '
@@ -1641,4 +1645,4 @@ markers:
 
       ', id: KR3k0013_WYG_214-bkkkrnewl377}
   back: []
-hash: sha256:9aef105feafe641465ed0f518ad3f5c5600f5bab7a053a68c9dab38951a29c25
+hash: sha256:5b1ef978281c0896e4f1224692180a8bfeeeeaa9273030772109e73b22585922

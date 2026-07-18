@@ -78,9 +78,11 @@ markers:
       ', id: KR3k0013_krp_793-bkkkrnewl16}
   - {type: line-break, offset: 235, content: '', id: KR3k0013_WYG_793-1b08}
   - {type: punctuation, offset: 246, content: (, id: KR3k0013_krp_793-bkkpn1}
+  - {type: voice, offset: 246, length: 4, name: note, id: n1}
   - {type: punctuation, offset: 248, content: /, id: KR3k0013_krp_793-bkkpn2}
   - {type: punctuation, offset: 250, content: ), id: KR3k0013_krp_793-bkkpn3}
   - {type: punctuation, offset: 255, content: (, id: KR3k0013_krp_793-bkkpn4}
+  - {type: voice, offset: 255, length: 4, name: note, id: n2}
   - {type: punctuation, offset: 257, content: /, id: KR3k0013_krp_793-bkkpn5}
   - {type: punctuation, offset: 259, content: ), id: KR3k0013_krp_793-bkkpn6}
   - {type: 'kr:newline', offset: 260, content: '
@@ -284,6 +286,7 @@ markers:
       ', id: KR3k0013_krp_793-bkkkrnewl66}
   - {type: line-break, offset: 1056, content: '', id: KR3k0013_WYG_793-4b04}
   - {type: punctuation, offset: 1073, content: (, id: KR3k0013_krp_793-bkkpn7}
+  - {type: voice, offset: 1073, length: 12, name: note, id: n3}
   - {type: punctuation, offset: 1077, content: /, id: KR3k0013_krp_793-bkkpn8}
   - {type: punctuation, offset: 1081, content: ), id: KR3k0013_krp_793-bkkpn9}
   - {type: 'kr:newline', offset: 1081, content: '
@@ -962,6 +965,7 @@ markers:
       ', id: KR3k0013_krp_793-bkkkrnewl234}
   - {type: line-break, offset: 3861, content: '', id: KR3k0013_WYG_793-14a01}
   - {type: punctuation, offset: 3879, content: (, id: KR3k0013_krp_793-bkkpn13}
+  - {type: voice, offset: 3879, length: 9, name: note, id: n4}
   - {type: punctuation, offset: 3882, content: /, id: KR3k0013_krp_793-bkkpn14}
   - {type: punctuation, offset: 3885, content: ), id: KR3k0013_krp_793-bkkpn15}
   - {type: 'kr:newline', offset: 3885, content: '
@@ -1614,4 +1618,4 @@ markers:
 
       ', id: KR3k0013_krp_793-bkkkrnewl395}
   back: []
-hash: sha256:d4990c32568722036f6e50a53d174d28d424e618ba5baef1971f8f702012336e
+hash: sha256:6406aff87c50818fbe5cc216a70c79e6165ad2c8a1579831331938ff76c36a69
