@@ -1,7 +1,7 @@
 canonical_identifier: bkk:krp/KR3k0013/bkk/v1/markers/1
 seq: 1
 markers:
-  front:
+  body:
   - {type: variant, offset: 0, length: 2, content: 總序, WYG: 欽定四庫全書册府元龜巻一宋王欽若等撰帝王部}
   - {type: page-break, offset: 0, content: '', id: KR3k0013_WYG_001-1a}
   - {type: variant, offset: 0, length: 2, content: 總序, krp: 欽定四庫全書册府元龜巻一宋王欽若等撰帝王部}
@@ -6745,6 +6745,5 @@ markers:
   - {type: xml-element, offset: 13559, content: '', id: KR3k0013_CHANT_001-bkkxmlele54}
   - {type: variant, offset: 13559, length: 0, content: '', WYG: 册府元龜卷一}
   - {type: variant, offset: 13559, length: 0, content: '', krp: 册府元龜卷一}
-  body: []
   back: []
-hash: sha256:22243819f0b8a8cb990dd2efe9dc64b6069d4f26a97e2f277c022ff4c870965e
+hash: sha256:ed52afdcd267051655e248c0fa715775e8824ccc76713244e4bd5c4f845f2da1

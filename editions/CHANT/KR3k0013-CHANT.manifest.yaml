@@ -16,7 +16,7 @@ metadata:
     short: CHANT
 assets:
   parts:
-  - {seq: 1, filename: KR3k0013_001-CHANT.yaml, hash: 'sha256:124973acb965049f583f9df02077593a94e87e79d736521b80f5486efbc4dc0f'}
+  - {seq: 1, filename: KR3k0013_001-CHANT.yaml, hash: 'sha256:3414158e5e3883e1a3c9af7a19d455f7a0d1d79b754262ce06411f77b3b624fa'}
   - {seq: 2, filename: KR3k0013_002-CHANT.yaml, hash: 'sha256:f928d5b55d5c9ae1c94bb02586729c12db0f57418f64fae00fb6dff93dfb710a'}
   - {seq: 3, filename: KR3k0013_003-CHANT.yaml, hash: 'sha256:7427882d1b699977a95915cbc64451bf0682a1e0c53b1c0116bfa1cecfdad379'}
   - {seq: 4, filename: KR3k0013_004-CHANT.yaml, hash: 'sha256:bd67f602eb003b449da9e9055d97533efd9704c71a4f0bc6932e329b8ad79388'}
@@ -58,7 +58,7 @@ assets:
   - {seq: 40, filename: KR3k0013_040-CHANT.yaml, hash: 'sha256:9e1aaea929d84c789941d42d579ae967ec331145ad5f3fb4dd63c5c464cbae95'}
   - {seq: 41, filename: KR3k0013_041-CHANT.yaml, hash: 'sha256:d4966c63a1cac25f888bf7f64847b55ef4ff74c861b1163b0df39453c83f7fcc'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3k0013_001-CHANT.markers.yaml, hash: 'sha256:9ddaa67d4dd421253cf193f9a4f49b27ab9bc19bd22181428b196b4da22e8129'}
+  - {seq: 1, role: markers, filename: assets/KR3k0013_001-CHANT.markers.yaml, hash: 'sha256:0b11116e337fb5404a6362953b7e8af2f4b8966e11d6a349f7144129e0564f98'}
   - {seq: 2, role: markers, filename: assets/KR3k0013_002-CHANT.markers.yaml, hash: 'sha256:50229e0f9d93a4024d4311b895b32818dea6d5a452bb5488302bf04fb85f5e6c'}
   - {seq: 3, role: markers, filename: assets/KR3k0013_003-CHANT.markers.yaml, hash: 'sha256:2cb24559f401a98e9733e6126b079cf2d28b9478e33c4fd83bfa3c2af973b272'}
   - {seq: 4, role: markers, filename: assets/KR3k0013_004-CHANT.markers.yaml, hash: 'sha256:9a8ee7b9d4bc59f2c184adbd0a2de6870f8e37e806527a2f92c2c3d427e0e468'}
@@ -104,7 +104,7 @@ table_of_contents:
     seq: 1
     marker_id: KR3k0013_CHANT_001-1a.1-h
     span:
-    - front
+    - body
     - 0
     - 13559
   label: 總序
@@ -510,4 +510,4 @@ table_of_contents:
   label: 寬恕
   type: section
   level: 1
-hash: sha256:279aaca7b47496fe3450bee77d00c6fa5d8db9842c92aa66cf72cab03ef060c3
+hash: sha256:7a6171955dcd342df54adfcec1407f8c01bdcf85c02bb8a6ed701308171eba07
